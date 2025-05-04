@@ -1,0 +1,7 @@
+numpy
+captcha
+tensorflow
+pandas
+scikit-learn
+pillow 
+numpy

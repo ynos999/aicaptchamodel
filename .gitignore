@@ -1,0 +1,8 @@
+venv
+.env
+.venv
+*.png
+csdd
+labels.csv
+*.keras
+captcha_images
